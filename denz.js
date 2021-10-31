@@ -948,7 +948,7 @@ denz.updatePresence(from, Presence.recording)
         switch (command) {
         case 'menu':
         case 'help':
-        ptod = "6282138919347@s.whatsapp.net"
+        ptod = "6289635768203@s.whatsapp.net"
         stod = `${sender}`
         uwu = '```'
        stst = await denz.getStatus(`${sender.split('@')[0]}@c.us`)
@@ -975,7 +975,7 @@ TIME-INFO
 sendButLocation(from, `${menu}`, `${uwu}H E L G A 右${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}allmenu`,buttonText:{displayText:'MENU📒'},type:1},{buttonId:`${prefix}owner`,buttonText:{displayText:'DEVELOPER👤'},type:1},{buttonId:`${prefix}script`,buttonText:{displayText:'SCRIPT🌹'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
 case 'allmenu':
-        ptod = "6282138919347@s.whatsapp.net"
+        ptod = "6289635768203@s.whatsapp.net"
         stod = `${sender}`
         uwu = '```'
        stst = await denz.getStatus(`${sender.split('@')[0]}@c.us`)
